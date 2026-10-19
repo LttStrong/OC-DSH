@@ -2,7 +2,7 @@
 ## 介绍
 OC上的大肥鱼，通过网卡访问DeepSeek的API，实现与大肥鱼交谈，人设被设定为了傲娇大肥鱼。只能对话，不能调用工具和联网
 ## 安装方法
-把`dsk.lua`和`dsk-config.lua`放到OC同一目录即可
+把`dsk.lua`和`dsk-config.lua`放到OC同一目录即可，需要修改一下`dsk-config.lua`，写上自己的API key，点进去就知道怎么改了（）
 ## 使用方法
 确保OC装载有网卡，在`dsk.lua`所在目录输入`dsk`即可。`/help`可以查看命令
 ## 免责声明
