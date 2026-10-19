@@ -12,7 +12,7 @@
 return {
   -- ====== 必填 ======
   -- 去 https://platform.deepseek.com 生成,形如 sk-xxxxxxxx
-  apiKey = "sk-48cef9862a414998b3abfae15ef3f3c2",
+  apiKey = "sk-填你自己的api",
 
   -- ====== 可选 ======
   -- 上游接口
